@@ -1,16 +1,16 @@
 # Libgdx-MD-Toggle
 
-__Libgdx-MD-Toggle__ is a scene2dUI implemetation of a Google material design style Toggle control. It is a simple extension of the [Libgdx Slider](<link to libgdx slider>)
+__Libgdx-MD-Toggle__ is a scene2dUI implemetation of a Google material design style Toggle control. It is a simple extension of the [Libgdx Slider](https://libgdx.badlogicgames.com/nightlies/docs/api/com/badlogic/gdx/scenes/scene2d/ui/Slider.html)
 with the addition of changing the knob and background as the toggle is switched, as well as providing a property to indicate whether it is on or not.
 
 ##### Screenshot
-![Toggle On Screenshot](<put link here>)
-![Toggle Off Screenshot](<put link here>)
+![Toggle On Screenshot](screenshots/example-on.png)
+![Toggle Off Screenshot](screenshots/example-off.png)
 
 
 ##GettingStarted
 ##Prerequisites
-This is designed to be used with [Libgdx](<link to libgdx>)
+This is designed to be used with [Libgdx](https://libgdx.badlogicgames.com)
 
 
 ###Usage
