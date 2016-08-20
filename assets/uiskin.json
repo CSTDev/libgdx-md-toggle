@@ -1,0 +1,7 @@
+uk.co.ctdev.uiobjects.Toggle$ToggleStyle: {
+	default-horizontal: { 
+		background: toggle-background-off, 
+		knobAfter: toggle-background-off, 
+		knobBefore: toggle-background-on,  
+		knob: toggle-off }
+}
